@@ -1,0 +1,4 @@
+necesito que me ayudes a realizar un manual que contenga un resumen de la explicacion clara sobre como dar mantenimiento a una laptop,
+este debe de ser amigable para todo tipo de personas (principiantes o experimentados) de una manera rapida y 
+sin adentrarse demasiado de manera tecnica a los componentes, quiero que este explicado el procedimiento paso a paso, 
+y quiero que agregues recomendaciones para que el mantenimiento se realice de la mejor manera.
